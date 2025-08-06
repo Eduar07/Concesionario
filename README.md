@@ -6,49 +6,6 @@ Este es un proyecto web estático diseñado para un **concecionario** de automó
 
 ## 📁 Estructura del Proyecto
 
-concecionario/
-│
-├── index.html # Página principal (main)
-│
-├── html/
-│ ├── booking.html
-│ ├── sell.html
-│ ├── services.html
-│ ├── setting.html
-│ ├── signin.html
-│ ├── signup.html
-│ ├── volvo.html
-│ ├── bmw.html
-│ └── lamborghini.html
-│
-├── css/
-│ ├── main.css
-│ ├── booking.css
-│ ├── sell.css
-│ ├── services.css
-│ ├── setting.css
-│ ├── signin.css
-│ ├── signup.css
-│ ├── volvo.css
-│ ├── bmw.css
-│ └── lamborghini.css
-│
-├── imagenes/
-│ ├── inicio/
-│ ├── setting/
-│ ├── booking/
-│ ├── sell/
-│ ├── services/
-│ ├── volvo/
-│ ├── bmw/
-│ └── lamborghini/
-│
-└── README.md # Documentación del proyecto
-
-
-
-
-
 ---
 
 ## 🧩 Páginas Incluidas
